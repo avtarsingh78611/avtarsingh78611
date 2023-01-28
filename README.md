@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=avtarsingh78611" alt="avtarsingh78611" /></a> </p>
 
-- 🔭 I’m currently working on **Data Science Projects**
+- 🔭 I’m currently working on **Student Face recognition system**
 
-- 🌱 I’m currently learning **Machine Learning, Keras , Tensor Flow and other modules.**
+- 🌱 I’m currently learning **Flask, HTML, CSS, OpenCV **
 
 - 🤝 I’m looking for help with **Data Science Projects**
 
