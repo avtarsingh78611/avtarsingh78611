@@ -13,8 +13,6 @@
 
 - 📫 How to reach me **avtarsingh78611@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1qyw02BXRJKUThCs2RSBPfzMwmu7U97AY/view?usp=sharing](https://drive.google.com/file/d/1qyw02BXRJKUThCs2RSBPfzMwmu7U97AY/view?usp=sharing)
-
 - ⚡ Fun fact **I think I am Funny and lovable.**
 
 <h3 align="left">Connect with me:</h3>
