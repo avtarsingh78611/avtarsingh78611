@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Student Attendence System**
 
-- 🌱 I’m currently learning **Flask, HTML, CSS, OpenCV **
+- 🌱 I’m currently learning **Web-Automation with Selenium and Python **
 
 - 🤝 I’m looking for help with **Data Science Projects**
 
